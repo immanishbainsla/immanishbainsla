@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-- 👨🏽‍💻 I’m currently working on Django, Bootstrap, JQuery and Data Structures
-- 🌱 I’m currently learning ReactJS
+- 👨🏽‍💻 I’m currently working on Django, Bootstrap, JQuery and Data Structures.
+- 🌱 I’m currently learning ReactJS.
 - 👯 I’m looking to collaborate on Django and React based projects.
 - 🤝 Open for collaborations in Web Development.
 - 💬 Talk me about Web, meme and other science stuff.
