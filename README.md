@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Django and React based projects.
 - 🤝 Open for collaborations in Web Development.
 - 💬 Talk me about Web, meme and other science stuff.
-- 🌐 Visit my[porfolio website](https://immanishbainsla.github.io/) for complete background and contact.
+- 🌐 Visit my [porfolio](https://immanishbainsla.github.io/) website for complete background and contact.
 
 To connect with me,
 
