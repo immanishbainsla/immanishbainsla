@@ -39,9 +39,9 @@ My projects,<br/>
 - <a href="https://codewarriors.pythonanywhere.com/">Competitive Programming Blog</a> <br/>
 - <a href="https://immanishbainsla.github.io/react-covid-19/">Covid-19 Statistics India</a> <br/>
 - <a href="https://immanishbainsla.github.io/">Portfolio</a> <br/>
-- <a href="https://github.com/immanishbainsla?tab=repositories">Other Projects</a> <br/>
+- <a href="https://github.com/immanishbainsla?tab=repositories">Other Projects</a> <br/><br/>
 
-- ⚡ My Github Stats:
+⚡ My Github Stats:
 
 <a href="https://github.com/immanishbainsla">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=immanishbainsla&theme=dark&hide_langs_below=1" />
