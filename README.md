@@ -30,6 +30,15 @@ To connect with me,
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/immanishbainsla) [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@immanishbainsla)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/immanishbainsla/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/immanishbainsla/) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/immanishbainsla) [<img src ="https://img.shields.io/badge/portfolio-web-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://immanishbainsla.github.io/) ![Visits Badge](https://badges.pufler.dev/visits/immanishbainsla/immanishbainsla?style=for-the-badge )
 
+My projects,
+<a href="http://immanishbainsla.pythonanywhere.com/">E-Commerce (Freelance)</a> <br/>
+<a href="https://github.com/immanishbainsla/hack-n-cody">Food4Needy (Hackathon - HackNCody)</a> <br/>
+<a href="http://neighbourhood.pythonanywhere.com/">Neighbourhood (Social Networking Site for Neighbours)</a> <br/>
+<a href="https://codewarriors.pythonanywhere.com/">Competitive Programming Blog</a> <br/>
+<a href="https://immanishbainsla.github.io/react-covid-19/">Covid-19 Statistics India</a> <br/>
+<a href="https://immanishbainsla.github.io/">Portfolio</a> <br/>
+<a href="https://github.com/immanishbainsla?tab=repositories">Other Projects</a> <br/>
+
 - ⚡ My Github Stats:
 
 <a href="https://github.com/immanishbainsla">
