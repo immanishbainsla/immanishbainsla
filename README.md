@@ -25,10 +25,11 @@ Here are some ideas to get you started:
 - 🤝 Open for collaborations in Web Development.
 - 💬 Talk me about Web, meme and other science stuff.
 - 🌐 Visit my [porfolio](https://immanishbainsla.github.io/) website for complete background and contact.
+- 🌐 Visit my [blog](https://codewarriors.pythonanywhere.com/).
 
 To connect with me,
 
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/immanishbainsla) [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@immanishbainsla)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/immanishbainsla/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/immanishbainsla/) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/immanishbainsla) [<img src ="https://img.shields.io/badge/portfolio-web-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://immanishbainsla.github.io/) ![Visits Badge](https://badges.pufler.dev/visits/immanishbainsla/immanishbainsla?style=for-the-badge )
+[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@immanishbainsla) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/immanishbainsla/) [<img src ="https://img.shields.io/badge/portfolio-web-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://immanishbainsla.github.io/) ![Visits Badge](https://badges.pufler.dev/visits/immanishbainsla/immanishbainsla?style=for-the-badge)
 
 <br/><br/>
 
