@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there 👋, I am Manish Bainsla! I am a developer who is passionate about stuffs related to Web and Science. Few tech that I enjoy working in, are Python, C++, Django and  React. Also, I have just started blogging!
+### Hi there 👋, I am Manish Bainsla! I am a developer who is passionate about stuffs related to Web and Science. Few tech that I enjoy working in are Python, C++, Django and  React, but also am always learning so this tends to change. Also, I have just started blogging!
 
 <br/>
 <br/>
