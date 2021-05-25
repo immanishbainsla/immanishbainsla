@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-- 👨🏽‍💻 I’m currently working on Django, Bootstrap, JQuery and Data Structures.
+- 👨🏽‍💻 I’m currently working on Typescript, Javascript, GitHub CI/CD Workflows, UI test Automation and Data Structures.
+- 👨🏽‍💻 I’m currently Software Engineering Intern at Red Hat.
 - 🌱 I’m currently learning ReactJS.
 - 👯 I’m looking to collaborate on Django and React based projects.
 - 🤝 Open for collaborations in Web Development.
